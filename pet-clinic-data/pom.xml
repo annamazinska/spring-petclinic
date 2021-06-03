@@ -4,12 +4,13 @@
     <parent>
         <artifactId>spring-petclinic</artifactId>
         <groupId>com.example</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>yes</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-data</artifactId>
+  <version>0.0.3-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
@@ -57,7 +58,7 @@
         </plugins>
     </build>
 
-  <scm>
-    <tag>pet-clinic-data-0.0.2</tag>
-  </scm>
+<!--  <scm>-->
+<!--    <tag>pet-clinic-data-0.0.1</tag>-->
+<!--  </scm>-->
 </project>
