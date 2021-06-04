@@ -4,7 +4,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>spring-petclinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -57,7 +57,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:annamazinska/spring-petclinic.git</developerConnection>
-        <tag>spring-petclinic-0.0.1</tag>
+        <tag>spring-petclinic-0.0.3</tag>
     </scm>
 
 
